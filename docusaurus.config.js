@@ -123,6 +123,10 @@ const config = {
                 label: '我们的频道',
                 href: 'https://pd.qq.com/s/dyvq3ldez',
               },
+              {
+                label: 'OrzRc导出为csv工具',
+                href: 'https://orztool.github.io/',
+              },
 
             ],
           },
