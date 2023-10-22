@@ -12,7 +12,7 @@ Bot开发：[户山兔兔](https://space.bilibili.com/1333478733)/[黑糖](https
 
 Orzmic游戏内数据收集：[思昔](https://space.bilibili.com/518645556)/[牛角面包](https://space.bilibili.com/1372592833)/[Star沐染](https://space.bilibili.com/550984227)/[蓝枫白羽](https://space.bilibili.com/651522136)
 
-UI制作：[思昔](https://space.bilibili.com/518645556)/[牛角面包](./intro)/[蓝枫白羽](https://space.bilibili.com/651522136)
+UI制作：[思昔](https://space.bilibili.com/518645556)/[牛角面包](https://space.bilibili.com/1372592833)/[蓝枫白羽](https://space.bilibili.com/651522136)
 
 文档编写＆校对：[黑糖](https://space.bilibili.com/441678288)/[乾狐离光](https://space.bilibili.com/454816001)/[户山兔兔](https://space.bilibili.com/1333478733)
 
