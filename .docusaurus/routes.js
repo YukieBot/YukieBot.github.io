@@ -4,42 +4,42 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'e1c'),
+    component: ComponentCreator('/__docusaurus/debug', '087'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '8fb'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'c4a'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '299'),
+    component: ComponentCreator('/__docusaurus/debug/content', '46e'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '3d1'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '747'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '8d7'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '9af'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'a54'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '2c7'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '473'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'c3d'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '849'),
+    component: ComponentCreator('/docs', 'e47'),
     routes: [
       {
         path: '/docs/help',
@@ -50,6 +50,12 @@ export default [
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/suggestdiy',
+        component: ComponentCreator('/docs/suggestdiy', '0d9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -69,7 +75,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '83e'),
+    component: ComponentCreator('/', '2e2'),
     exact: true
   },
   {

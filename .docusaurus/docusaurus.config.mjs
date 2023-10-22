@@ -28,10 +28,10 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\Users\\Daniel\\Documents\\orzWebsite\\ksmbot.github.io\\sidebars.js"
+          "sidebarPath": "D:\\Users\\Daniel\\Documents\\orzweb\\YukieBot.github.io\\sidebars.js"
         },
         "theme": {
-          "customCss": "D:\\Users\\Daniel\\Documents\\orzWebsite\\ksmbot.github.io\\src\\css\\custom.css"
+          "customCss": "D:\\Users\\Daniel\\Documents\\orzweb\\YukieBot.github.io\\src\\css\\custom.css"
         }
       }
     ]
@@ -72,10 +72,6 @@ export default {
             {
               "label": "使用说明",
               "to": "/docs/help"
-            },
-            {
-              "label": "版权声明",
-              "to": "/docs/CopyrightNotice"
             }
           ]
         },

@@ -29,6 +29,12 @@
       },
       {
         "type": "link",
+        "label": "推分小助手自定义指南",
+        "href": "/docs/suggestdiy",
+        "docId": "suggestdiy"
+      },
+      {
+        "type": "link",
         "label": "推分小助手常见报错",
         "href": "/docs/suggestwrong",
         "docId": "suggestwrong"
@@ -46,6 +52,12 @@
       "id": "intro",
       "title": "🌟欢迎来到雪绘的文档站",
       "description": "雪绘多可爱呀",
+      "sidebar": "tutorialSidebar"
+    },
+    "suggestdiy": {
+      "id": "suggestdiy",
+      "title": "推分小助手自定义指南",
+      "description": "(by 黑糖＆乾狐离光)",
       "sidebar": "tutorialSidebar"
     },
     "suggesthelper": {

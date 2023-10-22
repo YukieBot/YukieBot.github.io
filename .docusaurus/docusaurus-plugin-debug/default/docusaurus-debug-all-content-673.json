@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\Users\\Daniel\\Documents\\orzWebsite\\ksmbot.github.io\\sidebars.js",
-          "contentPath": "D:\\Users\\Daniel\\Documents\\orzWebsite\\ksmbot.github.io\\docs",
-          "contentPathLocalized": "D:\\Users\\Daniel\\Documents\\orzWebsite\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\Users\\Daniel\\Documents\\orzweb\\YukieBot.github.io\\sidebars.js",
+          "contentPath": "D:\\Users\\Daniel\\Documents\\orzweb\\YukieBot.github.io\\docs",
+          "contentPathLocalized": "D:\\Users\\Daniel\\Documents\\orzweb\\YukieBot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "help",
@@ -66,6 +66,32 @@
               }
             },
             {
+              "unversionedId": "suggestdiy",
+              "id": "suggestdiy",
+              "title": "推分小助手自定义指南",
+              "description": "(by 黑糖＆乾狐离光)",
+              "source": "@site/docs/suggestdiy.md",
+              "sourceDirName": ".",
+              "slug": "/suggestdiy",
+              "permalink": "/docs/suggestdiy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "推分小助手使用指南",
+                "permalink": "/docs/suggesthelper"
+              },
+              "next": {
+                "title": "推分小助手常见报错",
+                "permalink": "/docs/suggestwrong"
+              }
+            },
+            {
               "unversionedId": "suggesthelper",
               "id": "suggesthelper",
               "title": "推分小助手使用指南",
@@ -87,8 +113,8 @@
                 "permalink": "/docs/help"
               },
               "next": {
-                "title": "推分小助手常见报错",
-                "permalink": "/docs/suggestwrong"
+                "title": "推分小助手自定义指南",
+                "permalink": "/docs/suggestdiy"
               }
             },
             {
@@ -108,8 +134,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "推分小助手使用指南",
-                "permalink": "/docs/suggesthelper"
+                "title": "推分小助手自定义指南",
+                "permalink": "/docs/suggestdiy"
               }
             }
           ],
@@ -127,6 +153,10 @@
               {
                 "type": "doc",
                 "id": "suggesthelper"
+              },
+              {
+                "type": "doc",
+                "id": "suggestdiy"
               },
               {
                 "type": "doc",
