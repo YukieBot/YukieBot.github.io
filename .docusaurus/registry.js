@@ -10,6 +10,7 @@ export default {
   '__comp---theme-doc-page-1-be-9be': [() => import(/* webpackChunkName: '__comp---theme-doc-page-1-be-9be' */ '@theme/DocPage'), '@theme/DocPage', require.resolveWeak('@theme/DocPage')],
   'allContent---docusaurus-debug-content-246-9aa': [() => import(/* webpackChunkName: 'allContent---docusaurus-debug-content-246-9aa' */ '~debug/default/docusaurus-debug-all-content-673.json'), '~debug/default/docusaurus-debug-all-content-673.json', require.resolveWeak('~debug/default/docusaurus-debug-all-content-673.json')],
   'config---5-e-9-4f3': [() => import(/* webpackChunkName: 'config---5-e-9-4f3' */ '@generated/docusaurus.config'), '@generated/docusaurus.config', require.resolveWeak('@generated/docusaurus.config')],
+  'content---docs-copyright-062-b57': [() => import(/* webpackChunkName: 'content---docs-copyright-062-b57' */ '@site/docs/copyright.md'), '@site/docs/copyright.md', require.resolveWeak('@site/docs/copyright.md')],
   'content---docs-help-494-50e': [() => import(/* webpackChunkName: 'content---docs-help-494-50e' */ '@site/docs/help.md'), '@site/docs/help.md', require.resolveWeak('@site/docs/help.md')],
   'content---docs-intro-0-e-3-be1': [() => import(/* webpackChunkName: 'content---docs-intro-0-e-3-be1' */ '@site/docs/intro.md'), '@site/docs/intro.md', require.resolveWeak('@site/docs/intro.md')],
   'content---docs-suggestdiye-4-f-8e3': [() => import(/* webpackChunkName: 'content---docs-suggestdiye-4-f-8e3' */ '@site/docs/suggestdiy.md'), '@site/docs/suggestdiy.md', require.resolveWeak('@site/docs/suggestdiy.md')],

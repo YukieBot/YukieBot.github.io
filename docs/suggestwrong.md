@@ -1,5 +1,5 @@
 ---
-sidebar_poistion: 4
+sidebar_position: 5
 ---
 
 # 推分小助手常见报错

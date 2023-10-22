@@ -39,8 +39,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e47'),
+    component: ComponentCreator('/docs', '51d'),
     routes: [
+      {
+        path: '/docs/copyright',
+        component: ComponentCreator('/docs/copyright', 'dfc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/docs/help',
         component: ComponentCreator('/docs/help', '781'),

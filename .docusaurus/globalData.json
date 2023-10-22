@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "copyright",
+              "path": "/docs/copyright",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "help",
               "path": "/docs/help",
               "sidebar": "tutorialSidebar"

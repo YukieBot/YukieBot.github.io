@@ -10,12 +10,17 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_poistion": 4
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "推分小助手自定义指南",
     "permalink": "/docs/suggestdiy"
+  },
+  "next": {
+    "title": "📎版权说明",
+    "permalink": "/docs/copyright"
   }
 }

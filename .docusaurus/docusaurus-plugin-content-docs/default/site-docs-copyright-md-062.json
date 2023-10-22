@@ -1,0 +1,22 @@
+{
+  "unversionedId": "copyright",
+  "id": "copyright",
+  "title": "📎版权说明",
+  "description": "雪绘（Yukie）",
+  "source": "@site/docs/copyright.md",
+  "sourceDirName": ".",
+  "slug": "/copyright",
+  "permalink": "/docs/copyright",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "推分小助手常见报错",
+    "permalink": "/docs/suggestwrong"
+  }
+}

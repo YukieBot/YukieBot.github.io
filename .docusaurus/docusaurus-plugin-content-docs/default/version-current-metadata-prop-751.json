@@ -38,10 +38,22 @@
         "label": "推分小助手常见报错",
         "href": "/docs/suggestwrong",
         "docId": "suggestwrong"
+      },
+      {
+        "type": "link",
+        "label": "📎版权说明",
+        "href": "/docs/copyright",
+        "docId": "copyright"
       }
     ]
   },
   "docs": {
+    "copyright": {
+      "id": "copyright",
+      "title": "📎版权说明",
+      "description": "雪绘（Yukie）",
+      "sidebar": "tutorialSidebar"
+    },
     "help": {
       "id": "help",
       "title": "雪绘bot使用指南",

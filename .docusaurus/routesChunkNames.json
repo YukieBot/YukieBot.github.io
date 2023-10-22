@@ -42,12 +42,16 @@
       "plugin": "plugin---docusaurus-debug-6-ad-0b8"
     }
   },
-  "/docs-e47": {
+  "/docs-51d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-824-291"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/copyright-dfc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-copyright-062-b57"
   },
   "/docs/help-781": {
     "__comp": "__comp---theme-doc-item-178-a40",
