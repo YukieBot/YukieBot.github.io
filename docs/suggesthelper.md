@@ -68,7 +68,7 @@ sidebar_position: 3
 
 ### 板块说明
 
-![Alt text](./img/suggest.jpeg)
+![Alt text](./img/suggest.jpg)
 
 #### B20区(就是最左边深红色的区域)
 
