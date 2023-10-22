@@ -43,9 +43,9 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-         
+
         },
-        
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -71,7 +71,7 @@ const config = {
             position: 'left',
             label: 'Start',
           },
-	
+
           {
             href: 'https://github.com/YukieBot',
             label: 'GitHub',
@@ -93,15 +93,12 @@ const config = {
                 label: '使用说明',
                 to: '/docs/help',
               },
-              {
-                label: '版权声明',
-                to: '/docs/CopyrightNotice',
-              },
+              
             ],
           },
           {
             title: '友情链接',
-            items: [          
+            items: [
               {
                 label: 'Orzmic官方的哔哩哔哩主页',
                 href: 'https://space.bilibili.com/516654019',
@@ -114,19 +111,19 @@ const config = {
                 label: 'Orzmic下载-Konmai音游下载站616sb',
                 href: 'https://616.sb/#O',
               }
-              
-              
+
+
             ],
           },
           {
             title: '更多',
             items: [
-              
+
               {
                 label: '我们的频道',
                 href: 'https://pd.qq.com/s/dyvq3ldez',
               },
-              
+
             ],
           },
         ],
