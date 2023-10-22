@@ -1,0 +1,8 @@
+# dir 不需要提交的目录
+/node_modules
+
+​/build
+/build.bat
+/start.bat
+/test.bat
+/update.bat

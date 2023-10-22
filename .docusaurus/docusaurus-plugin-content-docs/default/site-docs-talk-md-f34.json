@@ -1,0 +1,26 @@
+{
+  "unversionedId": "talk",
+  "id": "talk",
+  "title": "😉兔兔的话",
+  "description": "&emsp;&emsp;一转眼，距离我第一次成功在终端上成功的运行ksm机器人，已经过去了快要半年了。这期间，我从只会导入别人写的插件，到开始自己编写ksm的相关功能。ksm的成长过程，也是我不断地学习新东西的过程，这期间也有遇到过很多问题，也得到了很多人的帮助，在此对支持我的大家表示由衷的谢意。",
+  "source": "@site/docs/talk.md",
+  "sourceDirName": ".",
+  "slug": "/talk",
+  "permalink": "/docs/talk",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "推分小助手使用指南",
+    "permalink": "/docs/suggesthelper"
+  },
+  "next": {
+    "title": "📎版权说明",
+    "permalink": "/docs/CopyrightNotice"
+  }
+}

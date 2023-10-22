@@ -1,0 +1,26 @@
+{
+  "unversionedId": "help",
+  "id": "help",
+  "title": "雪绘bot使用指南",
+  "description": "(by 黑糖)",
+  "source": "@site/docs/help.md",
+  "sourceDirName": ".",
+  "slug": "/help",
+  "permalink": "/docs/help",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌟欢迎来到雪绘的文档站",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "推分小助手使用指南",
+    "permalink": "/docs/suggesthelper"
+  }
+}

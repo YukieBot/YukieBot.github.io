@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mc",
+  "id": "mc",
+  "title": "🎮ksm的MC服务器",
+  "description": "与群里的米娜桑一起搭建的MC服务器",
+  "source": "@site/docs/mc.md",
+  "sourceDirName": ".",
+  "slug": "/mc",
+  "permalink": "/docs/mc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "雪绘bot使用指南",
+    "permalink": "/docs/help"
+  },
+  "next": {
+    "title": "😉兔兔的话",
+    "permalink": "/docs/talk"
+  }
+}

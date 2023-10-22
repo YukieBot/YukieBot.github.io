@@ -1,0 +1,26 @@
+{
+  "unversionedId": "suggesthelper",
+  "id": "suggesthelper",
+  "title": "推分小助手使用指南",
+  "description": "(by 黑糖)",
+  "source": "@site/docs/suggesthelper.md",
+  "sourceDirName": ".",
+  "slug": "/suggesthelper",
+  "permalink": "/docs/suggesthelper",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "雪绘bot使用指南",
+    "permalink": "/docs/help"
+  },
+  "next": {
+    "title": "推分小助手常见报错",
+    "permalink": "/docs/suggestwrong"
+  }
+}

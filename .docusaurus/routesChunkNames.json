@@ -1,0 +1,75 @@
+{
+  "/__docusaurus/debug-e1c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-f-eda"
+    }
+  },
+  "/__docusaurus/debug/config-8fb": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-f-eda"
+    }
+  },
+  "/__docusaurus/debug/content-299": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-f-eda"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3d1": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-f-eda"
+    }
+  },
+  "/__docusaurus/debug/metadata-8d7": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-f-eda"
+    }
+  },
+  "/__docusaurus/debug/registry-a54": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-f-eda"
+    }
+  },
+  "/__docusaurus/debug/routes-473": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-f-eda"
+    }
+  },
+  "/docs-849": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docsb-0-b-6e8"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/help-781": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-help-494-50e"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/suggesthelper-8fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-suggesthelperfaf-9b0"
+  },
+  "/docs/suggestwrong-d5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-suggestwrong-96-e-7da"
+  },
+  "/-83e": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---3-f-0-6c5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

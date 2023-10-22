@@ -1,0 +1,164 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\Users\\Daniel\\Documents\\orzWebsite\\ksmbot.github.io\\sidebars.js",
+          "contentPath": "D:\\Users\\Daniel\\Documents\\orzWebsite\\ksmbot.github.io\\docs",
+          "contentPathLocalized": "D:\\Users\\Daniel\\Documents\\orzWebsite\\ksmbot.github.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "help",
+              "id": "help",
+              "title": "雪绘bot使用指南",
+              "description": "(by 黑糖)",
+              "source": "@site/docs/help.md",
+              "sourceDirName": ".",
+              "slug": "/help",
+              "permalink": "/docs/help",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🌟欢迎来到雪绘的文档站",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "推分小助手使用指南",
+                "permalink": "/docs/suggesthelper"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "🌟欢迎来到雪绘的文档站",
+              "description": "雪绘多可爱呀",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "雪绘bot使用指南",
+                "permalink": "/docs/help"
+              }
+            },
+            {
+              "unversionedId": "suggesthelper",
+              "id": "suggesthelper",
+              "title": "推分小助手使用指南",
+              "description": "(by 黑糖)",
+              "source": "@site/docs/suggesthelper.md",
+              "sourceDirName": ".",
+              "slug": "/suggesthelper",
+              "permalink": "/docs/suggesthelper",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "雪绘bot使用指南",
+                "permalink": "/docs/help"
+              },
+              "next": {
+                "title": "推分小助手常见报错",
+                "permalink": "/docs/suggestwrong"
+              }
+            },
+            {
+              "unversionedId": "suggestwrong",
+              "id": "suggestwrong",
+              "title": "推分小助手常见报错",
+              "description": "1. index 0 is out of bounds for axis 0 with size 0",
+              "source": "@site/docs/suggestwrong.md",
+              "sourceDirName": ".",
+              "slug": "/suggestwrong",
+              "permalink": "/docs/suggestwrong",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_poistion": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "推分小助手使用指南",
+                "permalink": "/docs/suggesthelper"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "help"
+              },
+              {
+                "type": "doc",
+                "id": "suggesthelper"
+              },
+              {
+                "type": "doc",
+                "id": "suggestwrong"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

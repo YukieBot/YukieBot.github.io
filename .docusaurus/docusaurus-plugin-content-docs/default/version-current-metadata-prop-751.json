@@ -1,0 +1,64 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "🌟欢迎来到雪绘的文档站",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "雪绘bot使用指南",
+        "href": "/docs/help",
+        "docId": "help"
+      },
+      {
+        "type": "link",
+        "label": "推分小助手使用指南",
+        "href": "/docs/suggesthelper",
+        "docId": "suggesthelper"
+      },
+      {
+        "type": "link",
+        "label": "推分小助手常见报错",
+        "href": "/docs/suggestwrong",
+        "docId": "suggestwrong"
+      }
+    ]
+  },
+  "docs": {
+    "help": {
+      "id": "help",
+      "title": "雪绘bot使用指南",
+      "description": "(by 黑糖)",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "🌟欢迎来到雪绘的文档站",
+      "description": "雪绘多可爱呀",
+      "sidebar": "tutorialSidebar"
+    },
+    "suggesthelper": {
+      "id": "suggesthelper",
+      "title": "推分小助手使用指南",
+      "description": "(by 黑糖)",
+      "sidebar": "tutorialSidebar"
+    },
+    "suggestwrong": {
+      "id": "suggestwrong",
+      "title": "推分小助手常见报错",
+      "description": "1. index 0 is out of bounds for axis 0 with size 0",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

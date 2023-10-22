@@ -1,0 +1,21 @@
+{
+  "unversionedId": "suggestwrong",
+  "id": "suggestwrong",
+  "title": "推分小助手常见报错",
+  "description": "1. index 0 is out of bounds for axis 0 with size 0",
+  "source": "@site/docs/suggestwrong.md",
+  "sourceDirName": ".",
+  "slug": "/suggestwrong",
+  "permalink": "/docs/suggestwrong",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_poistion": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "推分小助手使用指南",
+    "permalink": "/docs/suggesthelper"
+  }
+}

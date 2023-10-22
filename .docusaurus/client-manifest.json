@@ -1,0 +1,197 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "972": [
+      972
+    ],
+    "17896441": [
+      532,
+      918
+    ],
+    "49491008": [
+      826
+    ],
+    "main": [
+      303,
+      532,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      303
+    ],
+    "0e384e19": [
+      671
+    ],
+    "1a013d80": [
+      235
+    ],
+    "1be78505": [
+      532,
+      972
+    ],
+    "32a82e20": [
+      359
+    ],
+    "3fe628f9": [
+      34
+    ],
+    "935f2afb": [
+      53
+    ],
+    "c4f5d8e4": [
+      532,
+      195
+    ],
+    "d0cc136a": [
+      582
+    ],
+    "f34e7908": [
+      817
+    ],
+    "styles": [
+      179,
+      195,
+      303,
+      514,
+      918,
+      532
+    ]
+  },
+  "assets": {
+    "34": {
+      "js": [
+        {
+          "file": "assets/js/3fe628f9.3ff37dac.js",
+          "hash": "efffa8fa95519fb2",
+          "publicPath": "/assets/js/3fe628f9.3ff37dac.js"
+        }
+      ]
+    },
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.be6e9702.js",
+          "hash": "3d876183425193b0",
+          "publicPath": "/assets/js/935f2afb.be6e9702.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.a1bb9754.js",
+          "hash": "c123aa6e95d14a4d",
+          "publicPath": "/assets/js/main.a1bb9754.js"
+        }
+      ]
+    },
+    "195": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.dbc96983.js",
+          "hash": "50d059c12ffa1e20",
+          "publicPath": "/assets/js/c4f5d8e4.dbc96983.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/1a013d80.f8512f8f.js",
+          "hash": "a65467ea994c6d66",
+          "publicPath": "/assets/js/1a013d80.f8512f8f.js"
+        }
+      ]
+    },
+    "303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.89e31080.js",
+          "hash": "45317ceb8b3397a8",
+          "publicPath": "/assets/js/runtime~main.89e31080.js"
+        }
+      ]
+    },
+    "359": {
+      "js": [
+        {
+          "file": "assets/js/32a82e20.f723f288.js",
+          "hash": "3e85ba09f230a929",
+          "publicPath": "/assets/js/32a82e20.f723f288.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.1af8e71c.css",
+          "hash": "7db0eacc2d454388",
+          "publicPath": "/assets/css/styles.1af8e71c.css"
+        }
+      ]
+    },
+    "582": {
+      "js": [
+        {
+          "file": "assets/js/d0cc136a.824a0cf1.js",
+          "hash": "c755cef7e789453f",
+          "publicPath": "/assets/js/d0cc136a.824a0cf1.js"
+        }
+      ]
+    },
+    "671": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.e8836041.js",
+          "hash": "1d9be76b5f8bfeed",
+          "publicPath": "/assets/js/0e384e19.e8836041.js"
+        }
+      ]
+    },
+    "817": {
+      "js": [
+        {
+          "file": "assets/js/f34e7908.8d494d58.js",
+          "hash": "7a76e662e50f6628",
+          "publicPath": "/assets/js/f34e7908.8d494d58.js"
+        }
+      ]
+    },
+    "826": {
+      "js": [
+        {
+          "file": "assets/js/49491008.8c8a3486.js",
+          "hash": "75c50fa78c16ce72",
+          "publicPath": "/assets/js/49491008.8c8a3486.js"
+        }
+      ]
+    },
+    "918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.2f04aa02.js",
+          "hash": "b48faa38dc2b3b0b",
+          "publicPath": "/assets/js/17896441.2f04aa02.js"
+        }
+      ]
+    },
+    "972": {
+      "js": [
+        {
+          "file": "assets/js/972.de3d4923.js",
+          "hash": "5db97340d74e8bd2",
+          "publicPath": "/assets/js/972.de3d4923.js"
+        },
+        {
+          "file": "assets/js/1be78505.f803f205.js",
+          "hash": "e5fc35ba872a21a5",
+          "publicPath": "/assets/js/1be78505.f803f205.js"
+        }
+      ]
+    }
+  }
+}

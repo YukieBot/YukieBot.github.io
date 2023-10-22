@@ -1,0 +1,21 @@
+{
+  "unversionedId": "推分小助手常见报错",
+  "id": "推分小助手常见报错",
+  "title": "推分小助手常见报错",
+  "description": "1. index 0 is out of bounds for axis 0 with size 0",
+  "source": "@site/docs/推分小助手常见报错.md",
+  "sourceDirName": ".",
+  "slug": "/推分小助手常见报错",
+  "permalink": "/docs/推分小助手常见报错",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_poistion": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📎版权说明",
+    "permalink": "/docs/CopyrightNotice"
+  }
+}

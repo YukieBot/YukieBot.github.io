@@ -1,0 +1,26 @@
+{
+  "unversionedId": "新建 文本文档",
+  "id": "新建 文本文档",
+  "title": "雪绘bot使用指南",
+  "description": "指南于2023年10月13日更新",
+  "source": "@site/docs/新建 文本文档.md",
+  "sourceDirName": ".",
+  "slug": "/新建 文本文档",
+  "permalink": "/docs/新建 文本文档",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "雪绘bot使用指南",
+    "permalink": "/docs/help"
+  },
+  "next": {
+    "title": "🎮ksm的MC服务器",
+    "permalink": "/docs/mc"
+  }
+}
