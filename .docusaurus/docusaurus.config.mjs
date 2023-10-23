@@ -102,6 +102,10 @@ export default {
             {
               "label": "OrzRc导出为csv工具",
               "href": "https://orztool.github.io/"
+            },
+            {
+              "label": "参与我们的文档工作",
+              "href": "https://github.com/yukiebot/yukiebot.github.io/"
             }
           ]
         }
