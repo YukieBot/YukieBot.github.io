@@ -25,7 +25,7 @@ sidebar_position: 2
 1. 打开Orzmic，在设置-其他里找到Ratingcode一栏，打开并截图。
 ![Alt text](./img/RcUI.png)
 2. 将获得的二维码转换成一串文本，这里提供一个网址：[二维码解码器](https://cli.im/deqr )
-，你也可以使用软件"一个木函"、"微信"等APP的自带解码器,（注：不要用qq自带的解码功能，极大概率会出错）
+，你也可以使用软件"一个木函"、"<a href="weixin://">微信 </a>"等APP的自带解码器,（注：不要用qq自带的解码功能，极大概率会出错）
 
 ![Alt text](./img/qrcode.png)
 
