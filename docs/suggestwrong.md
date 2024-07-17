@@ -4,6 +4,9 @@ sidebar_position: 5
 
 # 推分小助手常见报错
 
+>Orzmic更新3.0后旧算法不再适用于新版，等待适配（c∞ming s∞n）
+
+
 ### 1. ***index 0 is out of bounds for axis 0 with size 0***
 
 版本更新前后最容易出现的一类报错，原因：

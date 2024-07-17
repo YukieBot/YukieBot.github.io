@@ -10,6 +10,9 @@ sidebar_position: 3
 
 推分小助手当前版本: pre-v1.2
 
+>Orzmic更新3.0后旧算法不再适用于新版，等待适配（c∞ming s∞n）
+
+
 ## 特别感谢
 
 - [@思昔](https://space.bilibili.com/518645556) 提供的orz歌曲基本信息以及RatingCode基本转换思路
