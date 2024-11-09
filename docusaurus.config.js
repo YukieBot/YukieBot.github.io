@@ -142,6 +142,15 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  // Add the Cloudflare Web Analytics script
+  scripts: [
+    {
+      src: 'https://static.cloudflareinsights.com/beacon.min.js',
+      async: true,
+      'data-cf-beacon': '{"token": "e98bea798ef54650888267023399d347"}',
+    },
+  ],
 };
+
 
 module.exports = config;
